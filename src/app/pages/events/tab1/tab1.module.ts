@@ -15,8 +15,8 @@ import {ListEventsComponent} from "../components/list-events/list-events.compone
     FormsModule,
     Tab1PageRoutingModule,
     TranslatePipe,
-    ListEventsComponent
+
   ],
-  declarations: [Tab1Page, ]
+  declarations: [Tab1Page, ListEventsComponent]
 })
 export class Tab1PageModule {}
